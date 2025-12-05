@@ -1,0 +1,12 @@
+{
+  "name": "aoc-25",
+  "version": "1.0.0",
+  "description": "advent of code for 2025",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
